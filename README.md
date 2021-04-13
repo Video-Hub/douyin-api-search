@@ -4,7 +4,7 @@
 ## 抖音直播数据、抖音数据采集、抖音直播监控
 
 #### TiToData：专业的短视频数据采集、处理平台。
-> 更多信息请联系： [TiToData](https://www.titodata.com/about?from=shipinapi)
+> 更多信息请联系微信：ifuxing123
 ```
 海量数据采集
 每天为客户采集5亿条数据
@@ -28,7 +28,7 @@
 | cursor | int | 翻页游标 |
 
 <a name="zOzBk"></a>
-#### 返回示例请联系：[TiToData](https://www.titodata.com/about)
+#### 返回示例请联系微信：ifuxing123
 <br />
 
 <a name="ZbxPg"></a>
@@ -44,7 +44,7 @@
 | ctime | int | 发布时间，半年内传入183，一周内传入7，一天内传入1，默认不限0 |
 
 <a name="9sW9M"></a>
-#### 返回示例请联系：[TiToData](https://www.titodata.com/about)
+#### 返回示例请联系微信：ifuxing123
 <br />
 
 <a name="Jwyk3"></a>
@@ -57,7 +57,7 @@
 | cursor | int | 翻页游标 |
 
 <a name="uzF8D"></a>
-#### 返回示例请联系：[TiToData](https://www.titodata.com/about)
+#### 返回示例请联系微信：ifuxing123
 <br />
 <a name="KM6K1"></a>
 
@@ -70,7 +70,7 @@
 | cursor | int | 翻页游标 |
 
 <a name="uOGHp"></a>
-#### 返回示例请联系：[TiToData](https://www.titodata.com/about)
+#### 返回示例请联系微信：ifuxing123
 <br />
 <a name="tIzqZ"></a>
 
@@ -83,7 +83,7 @@
 | cursor | int | 翻页游标 |
 
 <a name="yg29p"></a>
-#### 返回示例请联系：[TiToData](https://www.titodata.com/about)
+#### 返回示例请联系微信：ifuxing123
 <br />
 <a name="0N783"></a>
 
@@ -96,7 +96,7 @@
 | cursor | int | 翻页游标 |
 
 <a name="qVwfg"></a>
-#### 返回示例请联系：[TiToData](https://www.titodata.com/about)
+#### 返回示例请联系微信：ifuxing123
 <br />
 <a name="CYVpw"></a>
 
@@ -109,7 +109,7 @@
 | cursor | int | 翻页游标 |
 
 <a name="xSKr5"></a>
-#### 返回示例请联系：[TiToData](https://www.titodata.com/about)
+#### 返回示例请联系微信：ifuxing123
 <br />
 <a name="PUkGI"></a>
 
@@ -122,6 +122,6 @@
 | cursor | int | 翻页游标 |
 
 <a name="9To3A"></a>
-#### 返回示例请联系：[TiToData](https://www.titodata.com/about)
+#### 返回示例请联系微信：ifuxing123
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Video-Hub.douyin-api-search)
